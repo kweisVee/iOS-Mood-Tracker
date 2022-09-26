@@ -117,3 +117,5 @@ An application that is a mood diary for users to keep track with their current m
 ### Logging Out
 
 -   Once done with using the application, users have the option to log out of their account or delete their account
+
+![Logging Out](/Images/loggingOut.png 'Logging Out')
