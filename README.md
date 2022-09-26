@@ -1,6 +1,6 @@
-# Hollywood Theater
+# Mood Tracker
 
-A theater ticketing website created with MERN Stack.
+An application that is a mood diary for users to keep track with their current mood.
 
 -   Swift
 -   Texture
@@ -32,5 +32,4 @@ A theater ticketing website created with MERN Stack.
 
 -   Users have the option to Sign In with their existing account or Sign Up with a new account
 
-![Home Page - Sign In](/Images/signIn.png 'Sign In')
-![Home Page - Sign Up](/Images/signUp.png 'Sign Up')
+![Home Page - Sign In](/Images/signIn.png 'Sign In') ![Home Page - Sign Up](/Images/signUp.png 'Sign Up')
